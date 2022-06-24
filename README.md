@@ -13,7 +13,7 @@ Tip: if you are interested or eager to try, you can light up one for me ⭐， T
 <h1> Ext Barrage </h1>
 </center>
 
-<img src="./resource/preview.png">
+<img src="resource/preview.png">
 
 </br>
 
@@ -49,7 +49,7 @@ The current schemes are single track internal adjustment, node reuse and CSS3 an
 
 <span style="color:#f4f">The number of nodes and memory usage of the whole system can be controlled within a linear and predictable threshold.
 
-<img src="./resource/strategy-策略1.png">
+<img src="resource/strategy-策略1.png">
 <br/>
 <br/>
 <h2>性能</h2>
@@ -61,10 +61,10 @@ performance
 
 Compared with BiliBili, this may not be rigorous, but it can also reflect the advantages of ext barrage in memory control
 
-<img src="./resource/performance-性能2.png">
+<img src="resource/performance-性能2.png">
 [ext-barrage]
 
-<img src="./resource/bilibili2.png">
+<img src="resource/bilibili2.png">
 [bilibili]
 
 
@@ -78,4 +78,4 @@ https://www.bilibili.com/video/BV1Uv4y137ee?spm_id_from=333.851.b_7265636f6d6d65
 
 就像需求一样，永远做不完的🙏
 
-Just like the demand, it can never be finished🙏
+Just like the demand, it can never be finished
